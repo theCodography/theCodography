@@ -1,5 +1,5 @@
-# Hi There, I'm Hung aka TheCodography 🤪
+## Hi There, I'm Hung aka TheCodography 🤪
 
-## Connect with me:
+### Connect with me:
 
  [instagram] 
