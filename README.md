@@ -6,4 +6,9 @@
 
 ### Languages and Tools:
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </p>
+<p align="left">
+  <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5" width="40" height="40"/>  
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> 
+  <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" alt="java" width="40" height="40"/> 
+</p>
